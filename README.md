@@ -15,8 +15,8 @@ Youtube 视频文案提取，翻译，二次创作后，转为中文新视频，
 * ALI_CLOUD_ACCESS_KEY_SECRET =
   
 ## 视频讲解
-* B站       
-* youtube   
+* B站       https://youtu.be/2UosGPOE72g
+* youtube   https://www.bilibili.com/video/BV1Qw41177jj/
 
 ## 小小声明
 
