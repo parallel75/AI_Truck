@@ -9,10 +9,10 @@ Youtube 视频文案提取，翻译，二次创作后，转为中文新视频，
 * 如果有疑问, 欢迎 email: 798800165@qq.com
 
 ## .env文件必要参数 list
-* OPENAI_API_KEY=
-* ALI_DashScope_API_KEY=
-* ALI_CLOUD_ACCESS_KEY_ID=
-* ALI_CLOUD_ACCESS_KEY_SECRET
+* OPENAI_API_KEY =
+* ALI_DashScope_API_KEY =
+* ALI_CLOUD_ACCESS_KEY_ID =
+* ALI_CLOUD_ACCESS_KEY_SECRET =
   
 ## 视频讲解
 * B站       
